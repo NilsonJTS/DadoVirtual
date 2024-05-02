@@ -1,0 +1,20 @@
+#rolar{
+    display: inline;
+    color: white;
+    background-color: red;
+    text-align: center;
+    padding: 10px 50px 10px 50px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 3px 5px 5px rgba(128, 128, 128, 0.327);
+
+}
+
+#botn{
+    margin-top: 25px;
+}
+
+#rolar:hover{
+    background-color: black;
+    poin
+}
